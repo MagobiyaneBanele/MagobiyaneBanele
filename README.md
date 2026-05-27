@@ -18,6 +18,7 @@ I work at an **engineering and infrastructure consultancy** based in South Afric
 - Data & Analytics: `SQL` • `Python` • `dbt` • `ETL Pipelines`
 - Backend Development: `Java` • `API Development` • `Workflow Automation`
 - Frontend: `JavaScript` • `React` • `HTML` • `CSS`
+- Containerization:`Docker`
 
 **Core Competencies:**
 - Data Engineering & Pipeline Architecture
