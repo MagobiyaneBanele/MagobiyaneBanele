@@ -3,6 +3,7 @@
 I'm **Banele Magobiyane**, a **Graduate Data Scientist & Software Engineer** passionate about transforming raw data into actionable insights and building scalable systems.
 
 ## 🎯 About Me
+I am a Bsc Computer Science and Applied Statistics Graduate at UCT 
 
 I work at an **engineering and infrastructure consultancy** based in South Africa, where I bridge the gap between data engineering, software development, and backend infrastructure. My day-to-day involves:
 
